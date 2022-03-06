@@ -1,0 +1,14 @@
+body {
+  background-color: #F2F7F7;
+  font-size: 14px;
+  line-height: 18px; }
+
+a {
+  color: black; }
+
+main {
+  max-width: 600px;
+  margin: 10px auto 100px auto;
+  padding: 10px; }
+
+/*# sourceMappingURL=layout.css.map */

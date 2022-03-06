@@ -1,0 +1,61 @@
+header {
+  margin-top: 0px;
+  height: 40px;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  justify-content: center; }
+
+div.question-detail-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px 1px rgba(0, 0, 0, 0.05);
+  padding: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+span.badge {
+  font-size: 12px;
+  line-height: 18px;
+  color: white;
+  background-color: orange;
+  border-radius: 15px;
+  padding: 2px 10px; }
+
+div.question-detail-card > p.text {
+  margin-top: 10px;
+  padding: 5px;
+  white-space: pre-wrap; }
+
+div.comments {
+  margin-top: 10px;
+  border: solid 2px #00A29A;
+  border-radius: 5px;
+  width: 100%; }
+
+div.comment {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 25px;
+  margin-top: 25px; }
+
+span.ryosei-name {
+  font-weight: bold; }
+
+div.comment > p.text {
+  margin: 10px;
+  margin-top: 10px;
+  white-space: pre-wrap; }
+
+div.posted-question-notifier {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px 1px rgba(0, 0, 0, 0.05);
+  padding: 20px;
+  background-color: #00A29A; }
+
+div.posted-question-notifier > p {
+  font-size: 24px;
+  color: #F2F7F7; }
+
+/*# sourceMappingURL=question.css.map */
